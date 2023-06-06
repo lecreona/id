@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Le Créona, ID | Jasa Pembuatan Website</title>
+		<link><![CDATA[https://lecreona.github.io]]></link>
+		<description>Jasa pembuatan website untuk bisnis, sekolah, dan organisasi oleh Le Créona. Gratis domain dan SSL dengan harga yang murah. Buat bisnismu mendunia!</description>
+		<language>id</language>
+		<pubDate>Tue, 06 Jun 2023 06:39:54 +0000</pubDate>
+		<generator>MySitemapGenerator (www.mysitemapgenerator.com)</generator>
+
+		<item>
+			<guid isPermaLink="false">4211207551</guid>
+			<title>Le Créona Academy</title>
+			<link>https://lecreona.github.io/lecreona-academy/</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<pubDate>Mon, 05 Jun 2023 04:28:02 GMT</pubDate>
+			<enclosure url="https://lecreona.github.io/lecreona-academy/assets/images/hero-banner.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">1626512586</guid>
+			<title>Le Créona Gaming</title>
+			<link>https://lecreona.github.io/lecreona-gaming/</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<description>This is an esports and gaming html template made by codewithsadee</description>
+			<pubDate>Mon, 05 Jun 2023 04:32:53 GMT</pubDate>
+			<enclosure url="https://lecreona.github.io/lecreona-gaming/assets/images/hero-banner.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">3370256129</guid>
+			<title>Le Créona Carfix</title>
+			<link>https://lecreona.github.io/lecreona-carfix/</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<pubDate>Mon, 05 Jun 2023 04:30:19 GMT</pubDate>
+			<enclosure url="https://lecreona.github.io/lecreona-carfix/assets/images/hero-banner.png" type="image/png" length="0" />
+		</item>
+		<item>
+			<guid isPermaLink="false">1350404218</guid>
+			<title>Le Créona Cinema</title>
+			<link>https://lecreona.github.io/lecreona-cinema/</link>
+			<dc:creator>Administrator</dc:creator>
+			<category>Site News</category>
+			<pubDate>Mon, 05 Jun 2023 04:23:47 GMT</pubDate>
+			<enclosure url="https://lecreona.github.io/lecreona-cinema/assets/images/movies/red-notice.jpg" type="image/jpeg" length="0" />
+		</item>
+	</channel>
+</rss>
